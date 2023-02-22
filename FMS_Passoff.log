@@ -1,0 +1,300 @@
+[Mon Feb 20 09:44:22 MST 2023] - INFO passoff.ServerTest: 	Setting up Persistence Test...
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Proxy: 	Clear called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Post without Request Body called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Attempting to open connection to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connection opened to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting passoffrequest method to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Request method set to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting Do Output to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Do Output set to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connecting to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO passoff.ServerTest: 	Setting up File Handler Default Test...
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Proxy: 	Clear called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Post without Request Body called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Attempting to open connection to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connection opened to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting passoffrequest method to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Request method set to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting Do Output to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Do Output set to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connecting to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO passoff.ServerTest: 	Setting up Realistic Fill Death Test...
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Proxy: 	Clear called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Post without Request Body called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Attempting to open connection to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connection opened to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting passoffrequest method to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Request method set to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting Do Output to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Do Output set to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connecting to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO passoff.ServerTest: 	Setting up Login Invalid Model.User Test...
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Proxy: 	Clear called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Post without Request Body called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Attempting to open connection to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connection opened to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting passoffrequest method to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Request method set to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting Do Output to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Do Output set to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connecting to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO passoff.ServerTest: 	Setting up Load Valid Info Test...
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Proxy: 	Clear called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Post without Request Body called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Attempting to open connection to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connection opened to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting passoffrequest method to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Request method set to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting Do Output to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Do Output set to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connecting to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO passoff.ServerTest: 	Setting up Valid Fill Relationships Test...
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Proxy: 	Clear called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Post without Request Body called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Attempting to open connection to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connection opened to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting passoffrequest method to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Request method set to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting Do Output to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Do Output set to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connecting to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO passoff.ServerTest: 	Setting up Login Invalid Password Test...
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Proxy: 	Clear called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Post without Request Body called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Attempting to open connection to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connection opened to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting passoffrequest method to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Request method set to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting Do Output to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Do Output set to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connecting to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO passoff.ServerTest: 	Setting up Events Bad Auth Token Test...
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Proxy: 	Clear called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Post without Request Body called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Attempting to open connection to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connection opened to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting passoffrequest method to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Request method set to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting Do Output to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Do Output set to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connecting to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO passoff.ServerTest: 	Setting up Clear Test...
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Proxy: 	Clear called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Post without Request Body called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Attempting to open connection to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connection opened to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting passoffrequest method to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Request method set to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting Do Output to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Do Output set to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connecting to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO passoff.ServerTest: 	Setting up Model.Event Bad Auth Token Test...
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Proxy: 	Clear called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Post without Request Body called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Attempting to open connection to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connection opened to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting passoffrequest method to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Request method set to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting Do Output to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Do Output set to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connecting to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO passoff.ServerTest: 	Setting up Realistic Fill Marriage Test...
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Proxy: 	Clear called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Post without Request Body called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Attempting to open connection to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connection opened to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting passoffrequest method to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Request method set to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting Do Output to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Do Output set to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connecting to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO passoff.ServerTest: 	Setting up Model.Person Wrong Model.User Test...
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Proxy: 	Clear called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Post without Request Body called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Attempting to open connection to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connection opened to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting passoffrequest method to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Request method set to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting Do Output to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Do Output set to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connecting to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO passoff.ServerTest: 	Setting up Model.Person Bad Auth Token Test...
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Proxy: 	Clear called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Post without Request Body called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Attempting to open connection to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connection opened to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting passoffrequest method to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Request method set to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting Do Output to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Do Output set to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connecting to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO passoff.ServerTest: 	Setting up Model.Event Valid Test...
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Proxy: 	Clear called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Post without Request Body called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Attempting to open connection to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connection opened to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting passoffrequest method to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Request method set to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting Do Output to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Do Output set to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connecting to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO passoff.ServerTest: 	Setting up Fill 2 Valid Test...
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Proxy: 	Clear called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Post without Request Body called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Attempting to open connection to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connection opened to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting passoffrequest method to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Request method set to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting Do Output to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Do Output set to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connecting to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO passoff.ServerTest: 	Setting up Fill 4 Valid Test...
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Proxy: 	Clear called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Post without Request Body called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Attempting to open connection to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connection opened to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting passoffrequest method to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Request method set to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting Do Output to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Do Output set to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connecting to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO passoff.ServerTest: 	Setting up Fill 5 Valid Test...
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Proxy: 	Clear called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Post without Request Body called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Attempting to open connection to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connection opened to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting passoffrequest method to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Request method set to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting Do Output to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Do Output set to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connecting to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO passoff.ServerTest: 	Setting up Persons Valid Test...
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Proxy: 	Clear called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Post without Request Body called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Attempting to open connection to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connection opened to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting passoffrequest method to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Request method set to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting Do Output to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Do Output set to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connecting to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO passoff.ServerTest: 	Setting up Load Valid Test...
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Proxy: 	Clear called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Post without Request Body called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Attempting to open connection to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connection opened to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting passoffrequest method to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Request method set to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting Do Output to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Do Output set to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connecting to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO passoff.ServerTest: 	Setting up Re-Register Model.User Test...
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Proxy: 	Clear called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Post without Request Body called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Attempting to open connection to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connection opened to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting passoffrequest method to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Request method set to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting Do Output to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Do Output set to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connecting to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO passoff.ServerTest: 	Setting up Model.Event Wrong Model.User Test...
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Proxy: 	Clear called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Post without Request Body called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Attempting to open connection to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connection opened to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting passoffrequest method to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Request method set to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting Do Output to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Do Output set to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connecting to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO passoff.ServerTest: 	Setting up Realistic Fill Birth Test...
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Proxy: 	Clear called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Post without Request Body called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Attempting to open connection to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connection opened to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting passoffrequest method to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Request method set to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting Do Output to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Do Output set to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connecting to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO passoff.ServerTest: 	Setting up Events Valid Test...
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Proxy: 	Clear called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Post without Request Body called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Attempting to open connection to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connection opened to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting passoffrequest method to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Request method set to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting Do Output to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Do Output set to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connecting to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO passoff.ServerTest: 	Setting up Model.Person Valid Test...
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Proxy: 	Clear called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Post without Request Body called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Attempting to open connection to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connection opened to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting passoffrequest method to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Request method set to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting Do Output to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Do Output set to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connecting to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO passoff.ServerTest: 	Setting up Register Valid New Model.User Test...
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Proxy: 	Clear called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Post without Request Body called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Attempting to open connection to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connection opened to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting passoffrequest method to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Request method set to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting Do Output to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Do Output set to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connecting to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO passoff.ServerTest: 	Setting up File Handler 404 Test...
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Proxy: 	Clear called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Post without Request Body called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Attempting to open connection to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connection opened to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting passoffrequest method to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Request method set to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting Do Output to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Do Output set to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connecting to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO passoff.ServerTest: 	Setting up File Handler Test...
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Proxy: 	Clear called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Post without Request Body called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Attempting to open connection to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connection opened to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting passoffrequest method to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Request method set to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting Do Output to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Do Output set to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connecting to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO passoff.ServerTest: 	Setting up Persons Bad Auth Token Test...
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Proxy: 	Clear called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Post without Request Body called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Attempting to open connection to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connection opened to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting passoffrequest method to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Request method set to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting Do Output to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Do Output set to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connecting to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO passoff.ServerTest: 	Setting up Fill Does Not Affect Other Users Test...
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Proxy: 	Clear called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Post without Request Body called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Attempting to open connection to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connection opened to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting passoffrequest method to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Request method set to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting Do Output to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Do Output set to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connecting to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO passoff.ServerTest: 	Setting up Login Valid Model.User Test...
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Proxy: 	Clear called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Post without Request Body called
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Attempting to open connection to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connection opened to server
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting passoffrequest method to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Request method set to POST
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Setting Do Output to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Do Output set to true
+[Mon Feb 20 09:44:22 MST 2023] - INFO client.Client: 	Connecting to server

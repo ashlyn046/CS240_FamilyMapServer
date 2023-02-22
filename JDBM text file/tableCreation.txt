@@ -1,0 +1,60 @@
+drop table if exists User;
+drop table if exists Person;
+drop table if exists Event;
+drop table if exists AuthToken;
+
+create table Person
+(
+    /*I will use UUID to generate random strings for each of the id cols, but they MUST be strings*/
+    personID varchar(225) not null primary key, /*Table's Unique ID*/
+
+    firstName varchar(255) not null,
+    lastName varchar(255) not null,
+    gender char(1) not null,
+
+    fatherID varchar(255),  /*should these be foreign keys???*/
+    motherID varchar(255),
+    spouseID varchar(255),
+
+    associatedUsername varchar(255) not null,
+    foreign key(associatedUsername) references User(username)
+);
+
+create table User  /*I think i want User to inherit from person??*/
+(
+	personID varchar(225) not null primary key, /*Table's Unique ID*/
+
+    username varchar(255) not null,
+    password varchar(255) not null,
+    email varchar(255) not null,
+    firstName varchar(255) not null,
+    lastName varchar(255) not null,
+    gender char(1) not null,
+
+    foreign key(personID) references person(personID)
+);
+
+create table Event
+(
+	eventID varchar(225) not null primary key, /*Table's Unique ID*/
+
+    latitude float not null,
+    longitude float not null,
+    country varchar(255) not null,
+    city varchar(255) not null,
+    eventType varchar(255) not null,
+    year int not null,
+
+    associatedUsername varchar(255) not null,
+    personID varchar(255) not null,
+    foreign key(associatedUsername) references User(username),
+    foreign key(personID) references person(personID)
+);
+
+create table AuthToken
+(
+	authtoken varchar(255) not null,
+    username varchar(255) not null,
+
+    foreign key(username) references User(username)
+);
