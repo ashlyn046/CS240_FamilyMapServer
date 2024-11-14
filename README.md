@@ -2,6 +2,8 @@
 
 This project for BYU's CS 240 course involves creating a server for the FamilyMap application, which provides users with a visual representation of their family history on a map.
 
+Note: Find java code in *src/main/java*. 
+
 ## Project Overview
 
 **FamilyMap** is a client-server application. The **FamilyMap server** is responsible for user authentication, family history data storage, and generating artificial family history data. The server accepts HTTP requests, processes them, and responds with appropriate data, interacting with a local SQLite database.
